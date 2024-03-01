@@ -163,6 +163,7 @@ h1 {
     transform: rotate(135deg); /* adjust the rotation to point the arrow to the left */
   }
   
+  
   /* Styles for the arrows on smaller screens */
   @media screen and (max-width: 768px) {
     .slick-prev:before,
